@@ -1,3 +1,5 @@
+Google Drive: [link](https://drive.google.com/drive/u/0/folders/0ANAnVHKWp9x4Uk9PVA)
+
 # ppol_564 final project: voting_and_consensus
 
 ## Project Option 
@@ -17,6 +19,11 @@ Polis is a platform, where everyone can draft a statement about how a matter sho
 
 
 ## Project’s anticipated challenge
+The research may encounter the problem of interpretation of variables in the dataset, and self-learning of algorithms: such as PCA and Leiden graphs, UMAP, etc.
+
+
+
+
 
 The research may encounter the problem of interpretation of variables in the dataset, and self-learning of algorithms: such as PCA and Leiden graphs, UMAP, etc.
 
