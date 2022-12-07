@@ -15,8 +15,9 @@ Polls and probabilistic modeling results often serve as a reference of how peopl
 
 Polis is a platform, where everyone can draft a statement about how a matter should be solved and respond to other participant’s suggestions by either agreeing or disagreeing with them. According to the individual response, Polis churned through the many axes of agreements and disagreements to draw a map (UMAP), then it will reduce the high dimension to the four dimension space and try to show people different opinions from different groups. 
 
-[Uber data](https://github.com/compdemocracy/openData/tree/master/vtaiwan.uberx), include 4 cvs file: comments, participants_votes, stat_history, summary, votes. Include time-series data (see how consensu is built over time), include the votes on the comments, may use UMAP or PCA to simulate high-dimensional data
 
+- For Participants' vote data [participants-votes.csv](https://drive.google.com/file/d/12KSb1BKEkRCsK-_RehxvBc7fjQVzfHny/view?usp=share_link)
+- For comments data [comments.csv](https://drive.google.com/file/d/12KSb1BKEkRCsK-_RehxvBc7fjQVzfHny/view?usp=share_link)
 
 ## Project’s anticipated challenge
 The research may encounter the problem of interpretation of variables in the dataset, and self-learning of algorithms: such as PCA and Leiden graphs, UMAP, etc.
